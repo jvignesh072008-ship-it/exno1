@@ -85,10 +85,9 @@ for file in file_names:
     print('=' * 80)
 
 ```
-            
-# Result/Output
+#Result/Output
 
-            <img width="829" height="680" alt="Screenshot 2025-10-07 203304" src="https://github.com/user-attachments/assets/964b911b-44a6-4dcb-a22d-e7a7f6293bb6" />
+<img width="829" height="680" alt="Screenshot 2025-10-07 203304" src="https://github.com/user-attachments/assets/964b911b-44a6-4dcb-a22d-e7a7f6293bb6" />
             <img width="818" height="579" alt="Screenshot 2025-10-07 203326" src="https://github.com/user-attachments/assets/b1058294-8d7b-41d8-8e77-51c218aad238" />
             <img width="939" height="746" alt="Screenshot 2025-10-07 203337" src="https://github.com/user-attachments/assets/e7f812d0-9ee5-466b-9174-9cff3ca5e449" />
             <img width="871" height="776" alt="Screenshot 2025-10-07 203349" src="https://github.com/user-attachments/assets/3ac01bea-2fea-445e-8d10-dd8db83e8941" />
@@ -98,6 +97,10 @@ for file in file_names:
             <img width="922" height="726" alt="Screenshot 2025-10-07 203542" src="https://github.com/user-attachments/assets/92dc00d5-4c43-426d-8748-1bd575bdf80f" />
             <img width="1086" height="469" alt="Screenshot 2025-10-07 203551" src="https://github.com/user-attachments/assets/cc965f42-8f78-4b10-8ec1-0b03932db423" />
 
+            
+ Result/Output
+
+            
 
 
 
